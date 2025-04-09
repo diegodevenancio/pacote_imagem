@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="meupacote",
+    name="pacote_imagem",
     version="0.1",
     packages=find_packages(),
-    author="Seu Nome",
-    author_email="seunome@email.com",
-    description="Um pacote de saudação",
+    author="Diego Venâncio",
+    author_email="diegodevenancio@gmail.com",
+    description="Um pacote de imagens",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     classifiers=[
